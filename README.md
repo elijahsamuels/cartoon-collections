@@ -38,9 +38,16 @@ Look into the [`each_with_index`](http://ruby-doc.org/core/Enumerable.html#metho
 
 Once the test for this method is passing, move on to the next method.
 
+
+
+
+
+
+
+
+
 #### Method 2 — `summon_captain_planet`
 
-![captain-planet](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cartoon-collections/captain-planet.jpeg)
 
 This method should accept an array argument of planeteer calls that will look
 like this:
@@ -62,6 +69,13 @@ at it [here][so] and [here][ruby-doc].
 
 Once the test for this method is passing, move on to the next method, long
 planeteer calls.
+
+
+
+
+
+
+
 
 #### Method 3 — `long_planeteer_calls`
 
